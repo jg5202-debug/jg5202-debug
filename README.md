@@ -61,16 +61,6 @@ A comparison of Amazon North America and Walmart U.S. across six annual periods 
 
 **Tools:** Python · pandas · SQLite · Matplotlib
 
-### [Company Data Explorer](https://github.com/jg5202-debug/company-data-explorer)
-
-A small, end-to-end Python learning project using fictional company records.
-
-- Cleaned missing company names, filtered records, and saved and reloaded data in JSON format.
-- Displayed selected records in a local Flask table and tested filtering, JSON handling, and HTML escaping.
-- Kept the demo data fictional and the project's scope explicit: a local learning application, not a production service.
-
-**Tools:** Python · pandas · JSON · Flask
-
 ## Let's connect
 
 Interested in financial data, practical analytics, or the question behind the chart? [Find me on LinkedIn →](https://www.linkedin.com/in/junyu-gai-795821433/)
